@@ -1,1 +1,2 @@
 init
+user에서이동
